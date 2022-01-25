@@ -6,8 +6,8 @@
 <div align=center>
   
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=musaubrian&show_icons=true&theme=aura)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musaubrian&theme=aura&layout=compact)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=musaubrian&show_icons=true&theme=midnight-purple)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musaubrian&theme=midnight-purple&layout=compact)
 </div>
   
 
