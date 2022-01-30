@@ -1,4 +1,13 @@
-<h2> Hello, i'm Brian</h2>
+
+<div align=center>
+<h1 align=center> Hello 👋, i'm Brian</h1>
+ <div align=center>
+   
+   
+![Coding _Monochromatic](https://user-images.githubusercontent.com/94367979/151704008-db008d13-502f-4aad-bbc2-2537bfe0039b.svg) 
+ </div>
+</div>
+
 
 <div align=center>
   <hr width="90%"/>
