@@ -1,11 +1,13 @@
 
 <div align=center>
-<h1 align=center> Hello 👋, i'm Brian</h1>
  <div align=center>
    
    
-![Coding _Monochromatic](https://user-images.githubusercontent.com/94367979/151704008-db008d13-502f-4aad-bbc2-2537bfe0039b.svg) 
+![shibi](https://user-images.githubusercontent.com/94367979/153020856-f6192400-33f0-40df-9411-74a24429015b.gif)
  </div>
+
+<h1 align=center> Hello 👋, i'm Brian</h1>
+ 
 </div>
 
 
