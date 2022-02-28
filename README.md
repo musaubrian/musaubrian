@@ -10,6 +10,7 @@
  
 </div>
 
+<p align=center> A software Engineering student fascinated with web development </p>
 
 <div align=center>
   <hr width="90%"/>
