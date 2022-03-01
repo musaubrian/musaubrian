@@ -27,3 +27,22 @@
   <hr width="90%"/>
 </div>
 
+<p align=center>
+
+ 
+ ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com.musaubrian&label=Visits&countColor=%23f47373&style=flat)
+</p>
+
+<h3 align=center> Connect with me </h3>
+<p align=center>
+<a href="https://twitter.com/nab__bri"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
+<a href="https://dev.to/nab__ri"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
+</p>
+
+<div align=center>
+  <hr width="90%"/>
+</div>
+
+
+
+
