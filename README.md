@@ -1,3 +1,5 @@
+![github-header-image](https://user-images.githubusercontent.com/94367979/157749651-e77b6eb0-0fff-4a0f-9e9d-e3f814f87b14.png)
+
 
  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com.musaubrian&label=Visits&countColor=%23f47373&style=flat)
 <div align=center>
@@ -36,6 +38,7 @@
 <a href= https://github.com/musaubrian?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://github.com/musaubrian?tab=repositories&q=&type=&language=materialize&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/materialize.svg'> </a>
 <a href= https://github.com/musaubrian?tab=repositories&q=&type=&language=shell&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'> </a>
+<a href= https://github.com/musaubrian?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
