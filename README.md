@@ -1,10 +1,5 @@
  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com.musaubrian&label=Visits&countColor=%23f47373&style=flat)
 <div align=center>
- <div align=center>
-   
-   
-![shibi](https://user-images.githubusercontent.com/94367979/153020856-f6192400-33f0-40df-9411-74a24429015b.gif)
- </div>
 
 <h1 align=center> Hello 👋, i'm Brian</h1>
  
