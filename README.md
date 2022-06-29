@@ -11,8 +11,8 @@
 <div align=center>
   
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=musaubrian&show_icons=true&theme=midnight-purple)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musaubrian&theme=midnight-purple)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=musaubrian&show_icons=true&theme=gruvbox)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musaubrian&theme=gruvbox&layout=compact&langs_count=9)
 </div>
   
 
