@@ -35,10 +35,9 @@
 <a href="https://twitter.com/nab__ri"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
 
 
-
 <h2> A little something to liven up your day </h2>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=gruvbox-material)
 
 
 
