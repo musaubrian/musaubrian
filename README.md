@@ -12,25 +12,17 @@
   <hr width="90%"/>
 </div>
 <div align=center>
-  
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=musaubrian&show_icons=true&theme=gruvbox)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musaubrian&theme=gruvbox&layout=compact&langs_count=9)
+ 
+  ![](https://raw.githubusercontent.com/musaubrian/github-stats/master/generated/overview.svg#gh-dark-mode-only) 
+  ![](https://raw.githubusercontent.com/musaubrian/github-stats/master/generated/overview.svg#gh-light-mode-only) 
+ ![](https://raw.githubusercontent.com/musaubrian/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/musaubrian/github-stats/master/generated/languages.svg#gh-light-mode-only)
 </div>
   
 
 <div align=center>
   <hr width="90%"/>
 </div>
-
-<h2> Skills </h2>
-<a href= https://github.com/musaubrian?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/musaubrian?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/musaubrian?tab=repositories&q=&type=&language=vuejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg'> </a>
-<a href= https://github.com/musaubrian?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/musaubrian?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/musaubrian?tab=repositories&q=&type=&language=shell&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'> </a>
-<a href= https://github.com/musaubrian?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 
 
 
