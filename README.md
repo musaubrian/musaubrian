@@ -13,9 +13,13 @@
 </div>
 <div align=center>
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=musaubrian&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+ ![](https://raw.githubusercontent.com/musaubrian/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/musaubrian/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+
+![](https://raw.githubusercontent.com/musaubrian/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/musaubrian/github-stats/master/generated/languages.svg#gh-light-mode-only)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musaubrian&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 </div>
   
 
