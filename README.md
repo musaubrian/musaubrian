@@ -2,11 +2,10 @@
  
  [![wakatime](https://wakatime.com/badge/user/18434bcc-e58a-4b5e-bba4-b9a9796bfc7d.svg)](https://wakatime.com/@18434bcc-e58a-4b5e-bba4-b9a9796bfc7d)
  
-<div align=center>
+<h1>Hi I'm Ernest</h1>
 
-<h1 align=center> Hello 👋, i'm Ernest</h1>
- 
-</div>
+![dancing-gopher](https://user-images.githubusercontent.com/94367979/212128324-b530e07c-9cee-49eb-8b31-f0dfd8a76cdf.gif)
+
 
 <div align=center>
   <hr width="90%"/>
