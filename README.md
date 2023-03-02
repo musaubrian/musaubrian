@@ -5,7 +5,7 @@
 
 # Hi there, I'm Ernest
 
-interested in building **web (apps/sites), CLI's** and contributing to open source projects.
+Interested in building **web (apps/sites), CLI's** and contributing to open source projects.
 
 ▫️ I'm always looking to collaborate and learn from other developers.
 
