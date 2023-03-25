@@ -20,7 +20,7 @@ Find me at
 ▫️ Let's build something amazing!
 
 
-Here are some stats you are probably not going to find useful
+<!-- Here are some stats you are probably not going to find useful
 <div align=center>
   <hr width="90%"/>
 </div>
@@ -31,7 +31,7 @@ Here are some stats you are probably not going to find useful
 ![](https://raw.githubusercontent.com/musaubrian/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/musaubrian/github-stats/master/generated/languages.svg#gh-light-mode-only)
  
-</div>
+</div> -->
   
 
 <div align=center>
