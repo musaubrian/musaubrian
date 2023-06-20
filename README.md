@@ -7,10 +7,6 @@
 
 Interested in building **web (apps/sites), CLI's** and contributing to open source projects.
 
-* I'm always looking to collaborate and learn from other developers.
-
-* I'm a big believer in the power of open source software and the amazing things that can be achieved when people come together and collaborate. I'm excited to be a part of the open source community and share my knowledge and experience.
-
 Feel free to check out my Github projects and reach out if you have any questions or would like to collaborate.
 
 Find me at
