@@ -4,12 +4,7 @@
  
 In the arena trying stuff
 
-  <hr width="90%"/>
 
 
 
-
-<h2> A little something to liven up your day </h2>
-
-<!-- ![dancing-gopher](https://user-images.githubusercontent.com/94367979/212128324-b530e07c-9cee-49eb-8b31-f0dfd8a76cdf.gif) -->
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=gruvbox-material)
+![ninja penger](https://penger.city/museum/pengers/NinjaPenger.png)
